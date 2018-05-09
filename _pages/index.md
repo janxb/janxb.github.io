@@ -22,7 +22,7 @@ Currently I am working as a full-time application developer and doing some addit
 **Java Web Developer** - _ALSO International Services GmbH (04/2017 - Present)_<br>
 Part of the eCommerce development team at ALSO. Developing components and interfaces in the B2B webshop written in Java.
 Also responsible for maintaining and improving multiple APIs to other parts of the business, including SAP, document archiving and direct
-ordering interfaces. Another part of my work includes administering internal applications like JIRA ServiceDesk and JIRA Confluence.
+ordering interfaces. Another part of my work includes the administration of internal applications like JIRA ServiceDesk and JIRA Confluence.
 
 **PHP Web Developer** - _Schenck.de AG (07/2016 - 02/2017)_<br>
 Part of the core development team for the main product, a learning management platform written in PHP. Responsible for migrating
