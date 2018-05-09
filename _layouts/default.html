@@ -7,7 +7,7 @@
 		{% seo %}
 
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.min.css" />
-		<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+		<link rel="stylesheet" href="/assets/css/style.css?{{site.time | date: '%s%N'}}">
 	</head>
 	<body>
 		<div class="container py-2">
