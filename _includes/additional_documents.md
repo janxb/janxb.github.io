@@ -8,7 +8,6 @@
 
 {% if additional_documents != empty %}
 ## Additional Documents
-{% for document in additional_documents %}
-- <a href="{{document.path}}">{{document.name}}</a>
+{% for document in additional_documents %}- <a href="{{document.path}}">{{document.name}}</a>
 {% endfor %}
 {% endif %}
