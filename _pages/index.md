@@ -41,6 +41,11 @@ I got a first insight into how the IT business works, based on multiple internsh
 
 ## Part-Time Projects
 
+**TOR Exit Nodes** _(01/2018 - Present)_<br>
+Currently I am running multiple TOR exit nodes, which contribute a large percentage of their available bandwidth to the [TOR project](https://www.torproject.org/about/overview.html.en).
+You can find an overview with all of my current and previous nodes using [TOR Atlas](https://atlas.torproject.org/#search/janxbde).
+
+
 **Radio Hitwave** _(03/2010 - Present)_<br>
 A web radio project completely founded and operated by teenagers. Responsible for IT infrastructure 
 and administration since project founding. My tasks include server and infrastructure management,
@@ -59,8 +64,3 @@ organizes monthly events in the youth church of Hamm.
 - [GitLab Profile](https://gitlab.com/janxb)
 - [XING Profile](https://www.xing.com/profile/Jan_Brodda)
 - [Linkedin Profile](https://www.linkedin.com/in/janbrodda)
-
-## Tor Exit Nodes
-
-Currently I am running multiple Tor exit nodes, which contribute a large percentage of their available bandwidth to the [Tor project](https://www.torproject.org/about/overview.html.en).
-You can find an overview with all of my current and previous nodes using [Tor Atlas](https://atlas.torproject.org/#search/janxbde).
