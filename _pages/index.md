@@ -31,7 +31,7 @@ like document management, user administration and webservices.
 
 **Apprentice Java Web Developer** - _ALSO International Services GmbH (08/2014 - 06/2016)_<br>
 Visited multiple departments of the ALSO group, which is a B2B IT reseller. Departments include Business Intelligence,
-Workflow & Webdesign and eCom Development. Most of the time was spent in the shop development team, also did my graduation project in this team:
+Workflow & Webdesign and eCom Development. Most of the time was spent in the shop development team, also did my graduation project there:
 Refactoring permissions in the webshop and developing a management frontend using REST webservices and knockout.js.
 
 **Apprentice IT Assistant** - _Eduard-Spranger Vocational College (08/2011 - 07/2014)_<br>
