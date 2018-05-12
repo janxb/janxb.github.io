@@ -2,6 +2,7 @@ name: Jan Brodda
 author: Jan Brodda
 charset: utf-8
 locale: en_US
+lang: en-US
 
 include: ['_pages']
 
