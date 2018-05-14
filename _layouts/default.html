@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+{% include dependency_versions.md %}
 <html lang="{{ site.lang }}">
 	<head>
 		<meta charset="{{ site.charset }}" />
@@ -6,7 +7,7 @@
 		<meta name="format-detection" content="telephone=no" />
 		{% seo %}
 
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/{{ dependency_bootstrap }}/css/bootstrap.min.css" />
 		<link rel="stylesheet" href="/assets/css/style.css?{{site.time | date: '%s%N'}}" />
 		<link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon" />
 	</head>
@@ -15,7 +16,7 @@
 			{{ content }}
 		</div>
 
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/js/bootstrap.bundle.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/{{ dependency_jquery }}/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/{{ dependency_bootstrap }}/js/bootstrap.bundle.min.js"></script>
 	</body>
 </html>
