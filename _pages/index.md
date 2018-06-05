@@ -12,7 +12,7 @@ Currently I am working as a full-time application developer and doing some addit
 
 ## Technical Skills
 - Java Web-Development (Spring/Tomcat/JSP)
-- PHP Web-Development (PHP7/composer/Symfony3)
+- PHP Web-Development (PHP7/composer/Symfony4)
 - Javascript Development (Bootstrap/jQuery/Vue.js)
 - Container Virtualization (LXD)
 - System Administration (Ubuntu/Web/Applications)
