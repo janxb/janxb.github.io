@@ -3,8 +3,9 @@ permalink: /
 layout: default
 ---
 
+{% include my_age.md %}
 # Jan Brodda
-I'm a German citizen and currently {% timeago 1995-09-13 %} old. My hobbies include biking, hiking and sports shooting.
+I'm a German citizen and currently {{ my_age }} years old. My hobbies include biking, hiking and sports shooting.
 Software development has always been my passion since young years, so I quickly started to turn this passion into my profession.
 Currently I am working as a full-time application developer and doing some additional project work in my free time.
 

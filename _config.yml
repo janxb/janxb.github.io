@@ -6,25 +6,5 @@ lang: en-US
 
 include: ['_pages']
 
-jekyll_timeago:
-  depth: 1
-  today: 'today'
-  yesterday: 'yesterday'
-  tomorrow: 'tomorrow'
-  and: 'and'
-  suffix: ''
-  prefix: ''
-  suffix_future: ''
-  prefix_future: 'in'
-  years: 'years'
-  year: 'year'
-  months: 'months'
-  month: 'month'
-  weeks: 'weeks'
-  week: 'week'
-  days: 'days'
-  day: 'day'
-
 plugins:
   - jekyll-seo-tag
-  - jekyll-timeago
