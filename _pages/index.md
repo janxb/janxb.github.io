@@ -44,7 +44,7 @@ I got a first insight into how the IT business works, based on multiple internsh
 
 **TOR Exit Nodes** _(01/2018 - Present)_<br>
 Currently I am running multiple TOR exit nodes, which contribute a large percentage of their available bandwidth to the TOR project.
-You can find an overview with all of my current and previous nodes using [TOR Atlas](https://atlas.torproject.org/#search/janxbde).
+You can find an overview of all nodes under my administration using [TOR Atlas](https://atlas.torproject.org/#search/janxbde).
 
 
 **Radio Hitwave** _(03/2010 - Present)_<br>
