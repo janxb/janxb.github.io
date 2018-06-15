@@ -3,6 +3,7 @@ author: Jan Brodda
 charset: utf-8
 locale: en_US
 lang: en-US
+timezone: Europe/Berlin
 
 include: ['_pages']
 
