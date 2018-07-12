@@ -30,7 +30,7 @@ Part of the core development team for the main product, a learning management pl
 parts of the application from Zend Framework to Symfony3, while keeping up parallel operation. Also doing maintenance work for components
 like document management, user administration and webservices.
 
-**Apprentice Java Web Developer** - _ALSO International Services GmbH (08/2014 - 06/2016)_<br>
+**Apprentice Application Developer** - _ALSO International Services GmbH (08/2014 - 06/2016)_<br>
 Visited multiple departments of the ALSO group, which is a B2B IT reseller. Departments include Business Intelligence,
 Workflow & Webdesign and eCom Development. Most of the time was spent in the shop development team, also did my graduation project there:
 Refactoring permissions in the webshop and developing a management frontend using REST webservices and knockout.js.
