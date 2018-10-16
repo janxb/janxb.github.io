@@ -42,7 +42,7 @@ I got a first insight into how the IT business works, based on multiple internsh
 
 ## Part-Time Projects
 
-**Radio Hitwave** _(03/2010 - Present)_<br>
+**Radio Hitwave e.V.** _(03/2010 - Present)_<br>
 A web radio project completely founded and operated by teenagers. Responsible for IT infrastructure 
 and administration since project founding. My tasks include server and infrastructure management,
 application maintenance and development and other administrative tasks.
