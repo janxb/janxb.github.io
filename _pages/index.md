@@ -12,11 +12,11 @@ Currently I am working as a full-time application developer and doing some addit
 **Want to get in touch with me? Try [contact@janbrodda.de](mailto:contact@janbrodda.de).**
 
 ## Technical Skills
-- Java Web-Development (Spring/Tomcat/JSP)
-- PHP Web-Development (PHP7/composer/Symfony4)
-- Javascript Development (Bootstrap/jQuery/Vue.js)
+- Java Web-Development (Spring / Spring Boot / Tomcat)
+- PHP Web-Development (PHP7 / composer / Symfony4)
+- Javascript Development (Bootstrap / jQuery / Vue.js)
 - Container Virtualization (LXD)
-- System Administration (Ubuntu/Web/Applications)
+- System Administration (Ubuntu / Web / Applications)
 
 ## Professional Employment
 
