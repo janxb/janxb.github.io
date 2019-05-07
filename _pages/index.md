@@ -56,7 +56,8 @@ organizes monthly events in the youth church of Hamm.
 {% include additional_documents.md %}
 
 ## References / Weblinks
-- [Github Profile](https://github.com/janxb)
-- [GitLab Profile](https://gitlab.com/janxb)
-- [XING Profile](https://www.xing.com/profile/Jan_Brodda)
-- [Linkedin Profile](https://www.linkedin.com/in/janbrodda)
+- [Github](https://github.com/janxb)
+- [GitLab](https://gitlab.com/janxb)
+- [XING](https://www.xing.com/profile/Jan_Brodda)
+- [Linkedin](https://www.linkedin.com/in/janbrodda)
+- [Tellonym](https://tellonym.me/janbrodda)
