@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-{% include dependency_versions.md %}
 <html lang="{{ site.lang }}">
 	<head>
 		<meta charset="{{ site.charset }}" />
@@ -7,7 +6,7 @@
 		<meta name="format-detection" content="telephone=no" />
 		{% seo %}
 
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/{{ dependency_bootstrap }}/css/bootstrap.min.css" />
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4/dist/css/bootstrap.min.css">
 		<link rel="stylesheet" href="/assets/css/style.css?{{site.time | date: '%s%N'}}" />
 		<link rel="icon" href="/assets/img/favicon.ico" type="image/x-icon" />
 	</head>
@@ -18,7 +17,7 @@
 			<i>Page generated at {{ site.time | date: '%Y-%m-%d / %H:%M' }}</i>
 		</div>
 
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/{{ dependency_jquery }}/jquery.min.js"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/{{ dependency_bootstrap }}/js/bootstrap.bundle.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@4/dist/js/bootstrap.bundle.min.js"></script>
 	</body>
 </html>
