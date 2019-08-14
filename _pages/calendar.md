@@ -14,6 +14,8 @@ To get an overview of my availability, please use my online calendar.
 
 ## Individual Event booking
 
-To create individual events and send them directly to my calendar, please use Calendly.
+To create individual events and send them directly to my calendar, please use one of the following websites.
 
-[GO TO MY EVENT BOOKING PAGE](https://calendly.com/janbrodda/event)
+[GO TO MY CALENDLY PAGE](https://calendly.com/janbrodda/event)
+
+[GO TO MY APPOINTLET PAGE](https://janbrodda.appointlet.com)
