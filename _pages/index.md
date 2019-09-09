@@ -19,7 +19,7 @@ I'm a German citizen and currently {{ my_age }} years old. My hobbies include bi
 ## Professional Employment
 
 **Java Web Developer** - _ALSO International Services GmbH (04/2017 - Present)_<br>
-Part of the eCommerce development team at ALSO. Developing components and interfaces in the B2B webshop written in Java. Also responsible for maintaining and improving multiple APIs to other parts of the business, including SAP, document archiving and direct ordering interfaces. Another part of my work includes the administration of internal applications like JIRA ServiceDesk and JIRA Confluence.
+Part of the eCommerce development team at ALSO. Developing components and interfaces in the B2B webshop written in Java. Also responsible for maintaining and improving multiple APIs to other parts of the business, including SAP, document archiving and direct ordering interfaces. Another part of my work includes the administration of internal applications like JIRA ServiceDesk and JIRA Confluence. Since 2019 heavily involved in the development of new Spring Boot microservices hosted at Heroku, including their integration into our existing infrastructure.
 
 **PHP Web Developer** - _Schenck.de AG (07/2016 - 02/2017)_<br>
 Part of the core development team for the main product, a learning management platform written in PHP. Responsible for migrating parts of the application from Zend Framework to Symfony3, while keeping up parallel operation. Also doing maintenance work for components like document management, user administration and webservices.
