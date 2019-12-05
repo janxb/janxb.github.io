@@ -1,6 +1,7 @@
 ---
 permalink: calendar
 layout: default
+redirect_from: "/termine"
 ---
 
 # Planning an Event
