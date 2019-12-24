@@ -5,6 +5,20 @@
 	overflow-x: hidden;
 }
 
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+	display: block;
+	text-align: center;
+	padding: 0 20px 5px 0;
+}
+
 @media print {
 	a[href^="http://"]:after,
 	a[href^="https://"]:after {
