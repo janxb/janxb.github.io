@@ -47,3 +47,4 @@ Voluntary member of multiple project teams all around the youth in my evangelic 
 - [Linkedin](https://www.linkedin.com/in/janbrodda)
 - [Tellonym](https://tellonym.me/janbrodda)
 - [Instagram](https://www.instagram.com/janbrodda)
+- [SoundCloud](https://soundcloud.com/janbrodda)
