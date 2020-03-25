@@ -1,7 +1,9 @@
 ---
 permalink: calendar
 layout: default
-redirect_from: "/termine"
+redirect_from:
+  - "/termine"
+  - "/kalender"
 ---
 
 {% include zoom.md %}
