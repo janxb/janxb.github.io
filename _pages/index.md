@@ -19,7 +19,10 @@ I'm a German citizen and currently {{ my_age }} years old. My hobbies include bi
 
 ## Professional Employment
 
-**Java Web Developer** - _ALSO International Services GmbH (04/2017 - Present)_<br>
+**Java System Architect** - _Continentale Krankenversicherung a.G. (06/2020 - Present)_<br>
+Member of the team responsible for the health insurance branch of the Continentale. Currently I am responsible for maintaining and enhancing our existing JavaEE + Liferay + Websphere environment. My work also includes designing new batch processes for data transfers through various of our systems. In the future, I will be part of a large-scale innovation project, where we introduce new technologies and workflows to replace our old-grown systems.
+
+**Java Web Developer** - _ALSO International Services GmbH (04/2017 - 05/2020)_<br>
 Part of the eCommerce development team at ALSO. Developing components and interfaces in the B2B webshop written in Java. Also responsible for maintaining and improving multiple APIs to other parts of the business, including SAP, document archiving and direct ordering interfaces. Another part of my work includes the administration of internal applications like JIRA ServiceDesk and JIRA Confluence. Since 2019 heavily involved in the development of new Spring Boot microservices hosted at Heroku, including their integration into our existing infrastructure.
 
 **PHP Web Developer** - _Schenck.de AG (07/2016 - 02/2017)_<br>
