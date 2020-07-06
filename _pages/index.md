@@ -14,8 +14,8 @@ I'm a German citizen and currently {{ my_age }} years old. My hobbies include bi
 - Java Web-Development (Spring / Spring Boot / Tomcat)
 - PHP Web-Development (PHP7 / composer / Symfony4)
 - Javascript Development (Bootstrap / jQuery / Vue.js)
-- Container Virtualization (LXD)
 - System Administration (Ubuntu / Web / Applications)
+- Container Virtualization (LXD)
 
 ## Professional Employment
 
