@@ -45,10 +45,16 @@ Voluntary member of multiple project teams all around the youth in my evangelic 
 {% include additional_documents.md %}
 
 ## References / Weblinks
+
+### Professional
+
 - [Github](https://github.com/janxb)
 - [GitLab](https://gitlab.com/janxb)
 - [XING](https://www.xing.com/profile/Jan_Brodda)
-- [Linkedin](https://www.linkedin.com/in/janbrodda)
+- [LinkedIn](https://www.linkedin.com/in/janbrodda)
+
+### Private
+
 - [Tellonym](https://tellonym.me/janbrodda)
 - [Instagram](https://www.instagram.com/janbrodda)
 - [SoundCloud](https://soundcloud.com/janbrodda)
