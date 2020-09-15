@@ -7,7 +7,6 @@
 
 
 {% if additional_documents != empty %}
-## Additional Documents
 {% for document in additional_documents %}- <a href="{{document.path}}">{{ document.name | replace: "_", "\_<wbr>" }}</a>
 {% endfor %}
 {% endif %}
