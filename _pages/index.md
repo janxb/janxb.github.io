@@ -62,7 +62,6 @@ Voluntary member of multiple project teams all around the youth in my evangelic 
 
 ### Private
 
-- [Tellonym](https://tellonym.me/janbrodda)
 - [Instagram](https://www.instagram.com/janbrodda)
 - [SoundCloud](https://soundcloud.com/janbrodda)
 - [Spritmonitor](https://www.spritmonitor.de/en/user/janxb.html)
