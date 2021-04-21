@@ -3,6 +3,17 @@ permalink: /changelog
 layout: default
 ---
 
+<style>
+ul {
+  list-style-type: none;
+}
+ul > li:before {
+  content: "–";
+  position: absolute;
+  margin-left: -1.1em; 
+}
+</style>
+
 # Personal Changelog
 This changelog keeps track of changes in my life. For that it uses *semantic versioning*:
 <br>**Major version:** *(1.0 / 2.0)* major versions mark new decades in my life.
