@@ -7,6 +7,10 @@ layout: default
 ul {
   list-style-type: none;
 }
+li {
+  margin-left: 1.5em;
+  margin-bottom: 0;
+}
 ul > li:before {
   content: "–";
   position: absolute;
@@ -22,8 +26,10 @@ This changelog keeps track of changes in my life. For that it uses *semantic ver
 
 ## 2.5.7
 - went on my biggest trip to work from other places, one week in Passau, Bavaria
+
 ## 2.5.0
 - decided to make my motorcycle drivers license
+
 ## 2.0.0
 - took some big steps towards my future profession in software development
 - started first website projects for external customers
