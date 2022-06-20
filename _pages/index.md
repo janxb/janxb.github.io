@@ -19,7 +19,7 @@ I'm a German citizen and currently {{ my_age }} years old. My hobbies include bi
 
 ## Professional Employment
 
-**Java Web Developer** - _ALSO International Services GmbH (10/2020 - Present)_<br>
+**Java Web Developer / Second Level Support** - _ALSO International Services GmbH (10/2020 - Present)_<br>
 Part of the eCommerce development team at ALSO. Responsible for our second and third level support, including improvements to our support processes. My tasks range from resolving simple, every-day support issues to implementing and improving automations and rule-sets in our JIRA service desk. Also involved into the development of our core product, the Java-powered B2B online shop system.
 
 **Java System Developer** - _Continentale Krankenversicherung a.G. (06/2020 - 09/2020)_<br>
