@@ -10,3 +10,4 @@ include: ['_pages']
 plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
+
