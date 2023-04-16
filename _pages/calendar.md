@@ -14,4 +14,4 @@ Because you are viewing this page, I assume that you want to plan an event with 
 
 To create individual events and send them directly to my calendar, please use the event booking service linked below.
 
-[GO TO MY EVENT BOOKING PAGE]([https://janbrodda.appointlet.com](https://outlook.office.com/bookwithme/user/5c464b54af584a5f87e665e267abc7db@janbrodda.de?anonymous&ep=plink))
+[GO TO MY EVENT BOOKING PAGE](https://outlook.office.com/bookwithme/user/5c464b54af584a5f87e665e267abc7db@janbrodda.de?anonymous&ep=plink)
