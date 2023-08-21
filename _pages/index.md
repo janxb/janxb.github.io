@@ -11,25 +11,30 @@ I'm a German citizen and currently {{ my_age }} years old. My hobbies include bi
 **Want to get in touch with me? Try [contact@janbrodda.de](mailto:contact@janbrodda.de).**
 
 ## Technical Skills
-- Java Web-Development (Spring / Spring Boot / Tomcat)
-- PHP Web-Development (PHP / composer / Symfony)
-- Javascript Development (Bootstrap / jQuery / Vue.js)
-- System Administration (Ubuntu / Web / Applications)
-- Container Virtualization (LXD)
+- Java Web-Development ( Java 17 / Spring Boot 3 )
+- PHP Web-Development ( PHP 8.2 / Symfony 4 / composer )
+- Javascript Development ( Bootstrap 5 / Vue.js 3.3 / jQuery )
+- System Administration ( Ubuntu / Web / Applications )
+- Container Virtualization ( LXD / Docker )
+
+## Personal Skills
+- Fluent in English and German, used to work in mixed-language teams
+- Great attention to detail and love to investigate new topics
+- Focus on providing helpful solutions to customers and colleagues
 
 ## Professional Employment
 
 **Java Web Developer / Second Level Support** - _ALSO International Services GmbH (10/2020 - Present)_<br>
-Part of the eCommerce development team at ALSO. Responsible for our second and third level support, including improvements to our support processes. My tasks range from resolving simple, every-day support issues to implementing and improving automations and rule-sets in our JIRA service desk. Also involved into the development of our core product, the Java-powered B2B online shop system.
+Part of the eCommerce development team at ALSO. Currently focussed on the 2nd level support for our b2b webshop application written in Java. I am responsible for dispatching and/or solving support tickets from over 20 different country organizations and tracking KPIs of our customer support. Additionally I am a contact person / decision helper for our developers and main responsible for our data-import processes based on MSSQL batch processing.
 
 **Java System Developer** - _Continentale Krankenversicherung a.G. (06/2020 - 09/2020)_<br>
-Member of the team responsible for the health insurance branch of the Continentale. Currently I am responsible for maintaining and enhancing our existing JavaEE + Liferay + Websphere environment. My work also includes designing new batch processes for data transfers through various of our systems.
+I was a Member of the team responsible for the health insurance branch of the Continentale. In this role I was responsible for maintaining and enhancing our existing JavaEE + Liferay + Websphere environment. My work also included designing new batch processes for data transfers through various of our systems.
 
 **Java Web Developer** - _ALSO International Services GmbH (04/2017 - 05/2020)_<br>
-Part of the eCommerce development team at ALSO. Developing components and interfaces in the B2B webshop written in Java. Also responsible for maintaining and improving multiple APIs to other parts of the business, including SAP, document archiving and direct ordering interfaces. Another part of my work includes the administration of internal applications like JIRA ServiceDesk and JIRA Confluence. Since 2019 heavily involved in the development of new Spring Boot microservices hosted at Heroku, including their integration into our existing infrastructure.
+Part of the eCommerce development team at ALSO. Developing components and interfaces in the B2B webshop written in Java. Also responsible for maintaining and improving multiple APIs to other parts of the business, including SAP, document archiving and direct ordering interfaces. Another part of my work included the administration of internal applications like JIRA ServiceDesk and JIRA Confluence. Since 2019 heavily involved in the development of new Spring Boot microservices hosted at Heroku, including their integration into our existing infrastructure.
 
 **PHP Web Developer** - _Schenck.de AG (07/2016 - 02/2017)_<br>
-Part of the core development team for the main product, a learning management platform written in PHP. Responsible for migrating parts of the application from Zend Framework to Symfony3, while keeping up parallel operation. Also doing maintenance work for components like document management, user administration and webservices.
+Part of the core development team for the main product, a learning management platform written in PHP. Responsible for migrating parts of the application from Zend Framework to Symfony 3, while keeping up parallel operation. Also doing maintenance work for components like document management, user administration and webservices.
 
 **Apprentice Application Developer** - _ALSO International Services GmbH (08/2014 - 06/2016)_<br>
 Visited multiple departments of the ALSO group, which is a B2B IT reseller. Departments include Business Intelligence, Workflow & Webdesign and eCom Development. Most of the time was spent in the shop development team, also did my graduation project there: Refactoring permissions in the webshop and developing a management frontend using REST webservices and knockout.js.
