@@ -21,6 +21,10 @@ li {
 	margin-bottom:0.5em;
 }
 
+p {
+	page-break-inside: avoid;
+}
+
 @mixin inline-list {
 	list-style-type: none;
 	margin: 0;

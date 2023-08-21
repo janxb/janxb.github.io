@@ -42,8 +42,6 @@ Visited multiple departments of the ALSO group, which is a B2B IT reseller. Depa
 **Apprentice IT Assistant** - _Eduard-Spranger Vocational College (08/2011 - 07/2014)_<br>
 The IT Assistant ("Informationstechnischer Assistent / ITA") is a german school education targeting young people with IT background. It includes basic topics like programming, operating systems, database design and economics. I got a first insight into how the IT business works, based on multiple internships.
 
-<div class="pagebreak" />
-
 ## Part-Time Projects
 
 **Radio Hitwave e.V.** _(03/2010 - Present)_<br>
