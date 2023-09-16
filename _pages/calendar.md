@@ -20,4 +20,4 @@ Here you can get an overview about my availability.
 
 Here you can send new appointments directly to my calendar.
 
-[GO TO MY EVENT BOOKING PAGE](https://outlook.office.com/bookwithme/user/5c464b54af584a5f87e665e267abc7db@janbrodda.de?anonymous&ep=plink)
+[GO TO MY EVENT BOOKING PAGE](https://calendly.com/janbrodda/event)
